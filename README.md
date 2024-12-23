@@ -29,7 +29,7 @@ Codepen: https://codepen.io/PicturElements
 Also thanks to Infinity Free for hosting this website. Please go check them out.
 https://www.infinityfree.com 
 
-That's all Good Luck and happy coding 😀
+That's all, Good Luck and Happy Coding 😀
 
 
 
