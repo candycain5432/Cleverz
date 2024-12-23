@@ -1,0 +1,131 @@
+<canvas class="webgl"></canvas>
+<div id="loader">
+    <h1>Loading</h1>
+</div>
+<link rel="icon" type="image/png" href="data:image/jpeg;base64,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">
+    <title>HOME</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r124/three.min.js"></script>
+<script src="https://unpkg.com/three@0.126.0/examples/js/loaders/GLTFLoader.js"></script>
+<script src="https://unpkg.com/three@0.126.0/examples/js/controls/OrbitControls.js"></script>
+
+<script>
+    const loading = document.querySelector('#loader')
+
+const canvas = document.querySelector('.webgl')
+const scene = new THREE.Scene()
+const textureLoader = new THREE.TextureLoader()
+const sizes = {
+    width: window.innerWidth,
+    height: window.innerHeight
+}
+
+// Base camera
+const camera = new THREE.PerspectiveCamera(10, sizes.width / sizes.height, 0.1, 100)
+camera.position.x = 8
+camera.position.y = 4
+camera.position.z = 15
+scene.add(camera)
+
+//Controls
+const controls = new THREE.OrbitControls(camera, canvas)
+controls.enableDamping = true
+controls.enableZoom = true
+controls.enablePan = true
+controls.minDistance = 21
+controls.maxDistance = 50
+controls.minPolarAngle = Math.PI / 5
+controls.maxPolarAngle = Math.PI / 2
+
+// Renderer
+const renderer = new THREE.WebGLRenderer({
+    canvas: canvas,
+    antialias: true,
+    alpha: true
+})
+
+renderer.setSize(sizes.width, sizes.height)
+renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2))
+renderer.outputEncoding = THREE.sRGBEncoding
+
+// Materials
+const bakedTexture = textureLoader.load('https://rawcdn.githack.com/ricardoolivaalonso/ThreeJS-Room13/47b05e2db4e49eec33d63729e920894a906cb693/static/baked.jpg')
+bakedTexture.flipY = false
+bakedTexture.encoding = THREE.sRGBEncoding
+
+const bakedMaterial = new THREE.MeshBasicMaterial({ map: bakedTexture })
+
+//Loader
+const loader = new THREE.GLTFLoader()
+loader.load('https://rawcdn.githack.com/ricardoolivaalonso/ThreeJS-Room13/47b05e2db4e49eec33d63729e920894a906cb693/static/model.glb',
+    (gltf) => {
+        const model = gltf.scene
+        model.traverse( child => child.material = bakedMaterial )
+        scene.add(model)
+		scene.position.set(0,.2,0)
+		loading.style.display = 'none'
+
+    },
+    ( xhr ) => {
+		console.log( ( xhr.loaded / xhr.total * 100 ) + '% loaded' )
+    }
+)
+
+
+window.addEventListener('resize', () =>
+{
+    sizes.width = window.innerWidth
+    sizes.height = window.innerHeight
+    camera.aspect = sizes.width / sizes.height
+    camera.updateProjectionMatrix()
+    renderer.setSize(sizes.width, sizes.height)
+    renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2))
+})
+// Animation
+
+var minPan = new THREE.Vector3( -2, -.5, -2 )
+var maxPan = new THREE.Vector3( 2, .5, 2 )
+
+const tick = () => {
+    controls.update()
+	controls.target.clamp( minPan, maxPan )
+    renderer.render(scene, camera)
+    window.requestAnimationFrame(tick)
+}
+
+tick()
+
+</script>
+
+<style>
+    *,
+*::after,
+*::before {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+    outline: none;
+    font-family: monospace;
+}
+
+body{
+    overflow: hidden;
+    background-color: #d2cfc8;
+	cursor: grab;
+}
+
+.webgl, 
+#loader{
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+#loader{
+    display: grid;
+    place-content: center;
+    width: 100%;
+    height: 100%;
+    background-color: #FAEDCD;
+}
+
+</style>
