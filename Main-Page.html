@@ -401,7 +401,6 @@ var programData=[
           {name: "Where In Fortnite", url: "https://whereinfortnite.com/", icon: {url:"fractal"}, keywords: "pirates,idk,set,"},
           {name: "My Instants", url: "https://www.myinstants.com/en/index/us/", icon: {url:"font-viewer"}, keywords: "pirates,idk,set,"},
           {name: "Slowroads", url: "https://slowroads.io/", icon: {url:"font-viewer"}, keywords: "pirates,idk,set,"},
-          {name: "Idk", url: "https://www.onlinegames.io/t/driving/", icon: {url:"font-viewer"}, keywords: "pirates,idk,set,"},
           {name: "History Spot", url: "https://historyspot.cc/activities/", icon: {url:"font-viewer"}, keywords: "pirates,idk,set,"},
           {name: "Neal.Fun", url: "https://neal.fun/", icon: {url:"matrix"}, keywords: "pirates,idk,set,"},
           {name: "Prop Hunt", url: "https://gameforge.com/en-US/littlegames/hunters-and-props/", icon: {url:"font-viewer"}, keywords: "pirates,idk,set,"},
@@ -1617,16 +1616,7 @@ function contextAddWin(evt){
   selectIcon(evt,target,true);
 }
 
-function toggleTaskbah(){
-  lockTaskbah=!lockTaskbah;
-  var elem=document.getElementById("taskbahSound");
-  if (lockTaskbah){
-    elem.currentTime=0;
-    elem.play();
-  }else{
-    elem.pause();
-  }
-}
+
 
 function openSettings(scrTo){
   hideSearch();
