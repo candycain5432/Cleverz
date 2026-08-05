@@ -5,10 +5,11 @@ This Is a irritation of an operating system ex. windows.
 
 ## IMPORTANT INFORMATION
 
-This was made for the intended purpose of entertainment on the users own time, I am not liable for a person using this software for purposes other then what it was intended for.
-Using this software to get around website blockers and school systems is not what this software was for and was never intended for it to be used in such way. A individual using this website for such purposes is liable for the rules or recommendations they broke. 
+This project was created solely for entertainment purposes, for use on the user's own time and own devices. It is not intended to circumvent website filters, network restrictions, or school/organizational content-blocking systems, and the author does not condone such use.
 
-I as the author of the code[^2] keep this repository running only on my behalf so my code can be open source. I do not intend for this software to be used in anyway other then its intended purpose. 
+Users are solely responsible for ensuring their use of this software complies with the rules, policies, and terms of service of any network, institution, or organization they are subject to. Any consequences resulting from misuse of this software are the responsibility of the individual user, not the author.
+
+This repository is maintained by the author[^2] on a voluntary basis in the spirit of open-source software. Maintenance and continued availability of this repository do not constitute an endorsement of any use outside its stated purpose.
 
 # Thanks for your understanding
 
