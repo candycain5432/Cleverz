@@ -13,4 +13,4 @@ I as the author of the code[^2] keep this repository running only on my behalf s
 # Thanks for your understanding
 
 [^1]: This was the old website name this website has since been removed
-[^2]: I used open source code to make the operation system but I did everything else i want to credit the original other [@PicturElements] (https://github.com/PicturElements/)
+[^2]: I used open source code to make the operation system but I did everything else i want to credit the original other [@PicturElements](https://github.com/PicturElements/)
